@@ -1,0 +1,4 @@
+csv-data/*.csv
+mariadb-data/**.**
+mariadb-data/**
+.env
